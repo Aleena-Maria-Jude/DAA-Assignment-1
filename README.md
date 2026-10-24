@@ -1,5 +1,5 @@
 # DAA-Assignment-1
-# Insertion Sort
+# Insertion Sort Algorithm
 
 This repository contains my **Design and Analysis of Algorithms (DAA) Assignment 1**, implemented using Python.
 
